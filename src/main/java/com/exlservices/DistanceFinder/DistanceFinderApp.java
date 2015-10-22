@@ -26,6 +26,7 @@ import com.exlservices.DistanceFinder.util.ResultFileExporter;
 
 /**
  * @author Manas Gupta
+ * @since 21st Oct, 2015
  * @version 1.0
  */
 public class DistanceFinderApp extends JDialog {
