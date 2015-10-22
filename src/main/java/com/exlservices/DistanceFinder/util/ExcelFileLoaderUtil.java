@@ -13,6 +13,11 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
+/**
+ * @author Manas Gupta
+ * @since 21st Oct, 2015
+ * @version 1.0
+ */
 public class ExcelFileLoaderUtil {
 
 	public TreeMap<Double, Double> importExcelFile(String filePath) {

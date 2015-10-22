@@ -1,5 +1,10 @@
 package com.exlservices.DistanceFinder.model;
 
+/**
+ * @author Manas Gupta
+ * @since 21st Oct, 2015
+ * @version 1.0
+ */
 public class DrivingDistanceAndTime {
 
 	private String sourceAddress;

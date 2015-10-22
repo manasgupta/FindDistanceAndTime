@@ -13,6 +13,11 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 import com.exlservices.DistanceFinder.model.DrivingDistanceAndTime;
 
+/**
+ * @author Manas Gupta
+ * @since 21st Oct, 2015
+ * @version 1.0
+ */
 public class ResultFileExporter {
 
 	public boolean writeListToExcel(List<DrivingDistanceAndTime> list,

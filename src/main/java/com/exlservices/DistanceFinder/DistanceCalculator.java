@@ -17,6 +17,11 @@ import org.json.JSONObject;
 
 import com.exlservices.DistanceFinder.model.DrivingDistanceAndTime;
 
+/**
+ * @author Manas Gupta
+ * @since 21st Oct, 2015
+ * @version 1.0
+ */
 public class DistanceCalculator {
 
 	public List<DrivingDistanceAndTime> calculateDistance(
